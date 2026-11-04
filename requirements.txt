@@ -1,6 +1,9 @@
-streamlit
-anthropic
-requests
-rdkit
-langchain-chroma
-langchain-community
+streamlit==1.38.0
+anthropic==0.34.2
+requests==2.32.3
+rdkit==2026.3.6
+langchain-chroma==0.1.2
+langchain-huggingface==0.0.3
+langchain-text-splitters==0.2.2
+pdfminer.six==20240705
+chromadb==0.5.5
