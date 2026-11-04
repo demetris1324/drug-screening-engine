@@ -248,7 +248,7 @@ USER INPUTS TO EVALUATE:
 """
 
                 response = client.messages.create(
-                    model="claude-3-5-sonnet",
+                    model="claude-sonnet-5-5",
                     max_tokens=8000,
                     system=MULTI_AGENT_SYSTEM_PROMPT,
                     messages=[{"role": "user", "content": combined_payload}]
