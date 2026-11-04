@@ -1,0 +1,9 @@
+streamlit
+anthropic
+requests
+rdkit
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+pdfminer.six
+chromadb
