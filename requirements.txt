@@ -1,0 +1,6 @@
+streamlit
+anthropic
+requests
+rdkit
+langchain-chroma
+langchain-community
